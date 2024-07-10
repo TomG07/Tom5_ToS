@@ -9,7 +9,6 @@ If you do not comply, you will be instantly banned permanently or temporarily (i
 - Do not use secondary and/or fake accounts to continuously obtain benefits.
 - Do not sell anything in the name of Tom5, this will be considered plagiarism and/or a crime!
 - Do not try to harm the bot owner and developers with nasty messages and/or insults.
-- If there is any kind of spam or flood of yours in the bot's music system, you will be automatically suspended indefinitely!
 
 ## Privacy policy
 - Your account will be exposed to the bot developers in your logs, to avoid spam or flooding, and for everyone's safety.
