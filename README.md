@@ -4,7 +4,7 @@ In order for you to use Tom5, you need to follow its terms of service and privac
 If you do not comply, you will be instantly banned permanently or temporarily (if applicable) from the bot.
 
 ## Util Information
-- You can see the last public repo of Tom5 [here](https://www.google.com)
+- You can see the last public repo of Tom5 [here](https://github.com/TomG07/Tom5v3)
 
 ## Terms of Service
 - Do not abuse bugs and/or harm servers, users, etc., or get your own benefits.
